@@ -1,20 +1,3 @@
-# 💫 About Me:
-🔬 I am a senior AI and full-stack engineeer.<br>🌱 I'm always learning and staying up-to-date with the latest advancements in the field.<br>👨‍💻 I'm proficient in Python, JavaScript, and various data science libraries and tools.<br>🤝 I'm open to collaborations and discussions on projects related to .<br>📈 My goal is to make project that satisfy customers and help to success of them<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnhvy&theme=discord&column=9" />
-</p>
-<div align="center">
-    <a href="https://github.com/johnhvy"><img src="https://komarev.com/ghpvc/?username=johnhvy&color=brightgreen&style=for-the-badge"/><a/>
-    <a href="./licence"><img src="https://img.shields.io/github/license/johnhvy/johnhvy?style=for-the-badge&color=brightgreen"/></a>
-</div>
-
-- 🌱Here are my technic certifies **https://www.hackerrank.com/profile/ukenta123**
-- 💬 My portfolio is **https://uneoka.netlify.app/**
-- 📫 How to reach me **uneoka.k0114@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/uneoka0114?tab=repositories**
-- ⚡ Fun fact **I speak fluent emoji, but my computer never understands my jokes. 😅**
-
 <div> 
 
 <h3 align="left">Stars</h3>
